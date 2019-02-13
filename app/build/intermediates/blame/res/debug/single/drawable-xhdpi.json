@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wallet.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\src\\main\\res\\drawable-xhdpi\\wallet.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_vpn_key_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_vpn_key_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\email.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\src\\main\\res\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_account_balance_wallet_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_account_balance_wallet_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_attachment_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_attachment_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_arrow_upward_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_upward_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_arrow_downward_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_downward_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_24dpw.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_black_24dpw.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_name.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_mail_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mail_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_event_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_event_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_local_phone_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_phone_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_call_black_24dp.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_call_black_24dp.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcherk.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcherk.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\Smaart\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

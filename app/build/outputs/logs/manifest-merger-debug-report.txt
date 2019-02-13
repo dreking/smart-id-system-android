@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:11:22-67
+application
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:12:5-32:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\addepalli\.android\build-cache\f5034015c6ece13bb1529435283e257da970393b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\addepalli\.android\build-cache\d0d637ee4840e03063869702ef021a7f17e9693f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\addepalli\.android\build-cache\987b01ca50e349e7a05201c59a61295a84c1ecc8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\addepalli\.android\build-cache\ace190659dd2aa277cf2049e6dcfe922b9d3866b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\addepalli\.android\build-cache\23502d2bd9ba467f1251c66d7d6d3bcfc9d066b8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\addepalli\.android\build-cache\c56b89424847d8f638e236f7905fc84bc9dd68ac\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\addepalli\.android\build-cache\cd2db09a0479ce3fbd67b4ad3317577aaf188c63\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\addepalli\.android\build-cache\7eaf3f6f5ba685c7d9cca17d3f77e8abbdee48fc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\addepalli\.android\build-cache\aad7c4c031130c541564b54f12720eac3b9ccfec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\addepalli\.android\build-cache\22d86c484f69f68f19e5b3e829d5eb5ca676130f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\addepalli\.android\build-cache\99521a9e8b75e079d9c8055c07bec1d27b94424a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\addepalli\.android\build-cache\6e9e3aed962c98b4203eb43ec2da64bfbe9cf6a7\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:15:9-33
+	android:supportsRtl
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:14:9-49
+	android:theme
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.addepalli.smaart.Login
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:21:13-34
+	android:theme
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:20:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.addepalli.smaart.MainActivity
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:29:9-49
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.example.addepalli.smaart.Forgotpass
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:30:9-47
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:30:19-45
+activity#com.example.addepalli.smaart.Aboutus
+ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml:31:19-42
+uses-sdk
+INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\addepalli\.android\build-cache\f5034015c6ece13bb1529435283e257da970393b\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\addepalli\.android\build-cache\d0d637ee4840e03063869702ef021a7f17e9693f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\addepalli\.android\build-cache\987b01ca50e349e7a05201c59a61295a84c1ecc8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\addepalli\.android\build-cache\ace190659dd2aa277cf2049e6dcfe922b9d3866b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\addepalli\.android\build-cache\23502d2bd9ba467f1251c66d7d6d3bcfc9d066b8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\addepalli\.android\build-cache\626418e22fc36f45abe05721f549bfa0b6b147d4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\addepalli\.android\build-cache\c56b89424847d8f638e236f7905fc84bc9dd68ac\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\addepalli\.android\build-cache\cd2db09a0479ce3fbd67b4ad3317577aaf188c63\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\addepalli\.android\build-cache\7eaf3f6f5ba685c7d9cca17d3f77e8abbdee48fc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\addepalli\.android\build-cache\aad7c4c031130c541564b54f12720eac3b9ccfec\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\addepalli\.android\build-cache\22d86c484f69f68f19e5b3e829d5eb5ca676130f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\addepalli\.android\build-cache\99521a9e8b75e079d9c8055c07bec1d27b94424a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\addepalli\.android\build-cache\6e9e3aed962c98b4203eb43ec2da64bfbe9cf6a7\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\addepalli\.android\build-cache\d0d637ee4840e03063869702ef021a7f17e9693f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\AndroidStudioProjects\Smaart\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\addepalli\.android\build-cache\d0d637ee4840e03063869702ef021a7f17e9693f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\addepalli\.android\build-cache\987b01ca50e349e7a05201c59a61295a84c1ecc8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\addepalli\.android\build-cache\ace190659dd2aa277cf2049e6dcfe922b9d3866b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\addepalli\.android\build-cache\23502d2bd9ba467f1251c66d7d6d3bcfc9d066b8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\addepalli\.android\build-cache\626418e22fc36f45abe05721f549bfa0b6b147d4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\addepalli\.android\build-cache\c56b89424847d8f638e236f7905fc84bc9dd68ac\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\addepalli\.android\build-cache\cd2db09a0479ce3fbd67b4ad3317577aaf188c63\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\addepalli\.android\build-cache\7eaf3f6f5ba685c7d9cca17d3f77e8abbdee48fc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\addepalli\.android\build-cache\aad7c4c031130c541564b54f12720eac3b9ccfec\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\addepalli\.android\build-cache\22d86c484f69f68f19e5b3e829d5eb5ca676130f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\addepalli\.android\build-cache\99521a9e8b75e079d9c8055c07bec1d27b94424a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\addepalli\.android\build-cache\6e9e3aed962c98b4203eb43ec2da64bfbe9cf6a7\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\addepalli\.android\build-cache\d0d637ee4840e03063869702ef021a7f17e9693f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\addepalli\.android\build-cache\d0d637ee4840e03063869702ef021a7f17e9693f\output\AndroidManifest.xml:26:9-47
